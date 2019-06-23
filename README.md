@@ -4,4 +4,4 @@ démonstration
 
 Et maintenant modifié depuis github
 
-modifié depuis mon local
+modifié depuis mon local et c'est cool
